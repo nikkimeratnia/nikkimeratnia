@@ -1,11 +1,6 @@
 <div align="center">
-
-# Hi, I'm Niki Meratnia 👋
-
-### Computer Engineering Student | Java Developer | Spring Boot Learner
-
+  <img src="./header.png" width="100%" />
 </div>
-
 ## 👨‍💻 About Me
 
 I'm a Computer Engineering student focused on Java and backend development.
