@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./header.png" width="100%" />
 </div>
+
 ## 👨‍💻 About Me
 
 I'm a Computer Engineering student focused on Java and backend development.
@@ -33,12 +34,12 @@ software engineering practices.
 
 ## 🚀 Featured Projects
 
-### 🌦️ Weather API Application
+### 🌦️ Weather API Application[https://github.com/nikkimeratnia/public-Api-weather]
 A Java application that consumes weather data from external REST APIs, handles API failures, and provides cached results as a fallback.
 
 **Tech:** Java · REST API · JSON · Jackson · Maven
 
-### 📚 Library Management System
+### 📚 Library Management System(CRUD)[https://github.com/nikkimeratnia/crudsqlite]
 A Java-based library management application with CRUD operations, database persistence, borrowing and returning functionality.
 
 **Tech:** Java · JDBC · MySQL · SQLite · Git
